@@ -1,2 +1,2 @@
 # ConcretePoetry-KyleTranquilli
-Concrete Poetry Chose Your Own Adventure. I chose to create a story in which readers are lost in the  
+Readers must are lost in the wilderness and must make critical decisions in order to survive. 
