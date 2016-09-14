@@ -1,2 +1,2 @@
 # ConcretePoetry-KyleTranquilli
-Readers must are lost in the wilderness and must make critical decisions in order to survive. 
+Readers have been in a horrible plane crash and are stranded in the wilderness. They must make critical decisions in order to survive the harsh conditions of the forest. 
